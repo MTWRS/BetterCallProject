@@ -39,7 +39,7 @@ export const PaginaWeb = (): JSX.Element => {
       </div>
 
       {/* Botões reposicionados conforme a imagem */}
-<a href="https://bettercallsaul-contact.com" target="_blank" rel="noopener noreferrer" className="no-underline">
+<a href="https://bettercallsaul-contact.com" target="_blank" rel="noopener noreferrer" className="underline">
   <div className="absolute top-[500px] left-[600px] w-[270px] h-[70px] bg-black rotate-[-5deg] cursor-pointer transition-colors flex items-center justify-center hover:bg-[#e6e900] group">
     <div className="[font-family:'Alfa_Slab_One',Helvetica] font-normal text-[#e6e900] text-[30px] tracking-[0] leading-[normal] transition-colors group-hover:text-black">
       CONTACT US
