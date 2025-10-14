@@ -39,29 +39,29 @@ export const PaginaWeb = (): JSX.Element => {
       </div>
 
       {/* Botões reposicionados conforme a imagem */}
-      <a href="https://bettercallsaul-contact.com" target="_blank" rel="noopener noreferrer" className="no-underline">
-        <div className="absolute top-[500px] left-[600px] w-[270px] h-[70px] bg-black rotate-[-5deg] cursor-pointer transition-colors flex items-center justify-center hover:bg-[#e6e900]">
-          <div className="[font-family:'Alfa_Slab_One',Helvetica] font-normal text-[#e6e900] text-[30px] tracking-[0] leading-[normal] transition-colors hover:text-black">
-            CONTACT US
-          </div>
-        </div>
-      </a>
+<a href="https://bettercallsaul-contact.com" target="_blank" rel="noopener noreferrer" className="no-underline">
+  <div className="absolute top-[500px] left-[600px] w-[270px] h-[70px] bg-black rotate-[-5deg] cursor-pointer transition-colors flex items-center justify-center hover:bg-[#e6e900] group">
+    <div className="[font-family:'Alfa_Slab_One',Helvetica] font-normal text-[#e6e900] text-[30px] tracking-[0] leading-[normal] transition-colors group-hover:text-black">
+      CONTACT US
+    </div>
+  </div>
+</a>
 
-      <a href="https://bettercallsaul-location.com" target="_blank" rel="noopener noreferrer" className="no-underline">
-        <div className="absolute top-[600px] left-[610px] w-[270px] h-[70px] bg-black rotate-[-5deg] cursor-pointer transition-colors flex items-center justify-center hover:bg-[#e6e900]">
-          <div className="[font-family:'Alfa_Slab_One',Helvetica] font-normal text-[#e6e900] text-[30px] tracking-[0] leading-[normal] transition-colors hover:text-black text-center w-full">
-            LOCATION
-          </div>
-        </div>
-      </a>
+<a href="https://bettercallsaul-location.com" target="_blank" rel="noopener noreferrer" className="no-underline">
+  <div className="absolute top-[600px] left-[610px] w-[270px] h-[70px] bg-black rotate-[-5deg] cursor-pointer transition-colors flex items-center justify-center hover:bg-[#e6e900] group">
+    <div className="[font-family:'Alfa_Slab_One',Helvetica] font-normal text-[#e6e900] text-[30px] tracking-[0] leading-[normal] transition-colors group-hover:text-black text-center w-full">
+      LOCATION
+    </div>
+  </div>
+</a>
 
-      <a href="https://bettercallsaul-info.com" target="_blank" rel="noopener noreferrer" className="no-underline">
-        <div className="absolute top-[700px] left-[620px] w-[270px] h-[70px] bg-black rotate-[-5deg] cursor-pointer transition-colors flex items-center justify-center hover:bg-[#e6e900]">
-          <div className="[font-family:'Alfa_Slab_One',Helvetica] font-normal text-[#e6e900] text-[30px] tracking-[0] leading-[normal] transition-colors hover:text-black">
-            MORE INFO.
-          </div>
-        </div>
-      </a>
+<a href="https://bettercallsaul-info.com" target="_blank" rel="noopener noreferrer" className="no-underline">
+  <div className="absolute top-[700px] left-[620px] w-[270px] h-[70px] bg-black rotate-[-5deg] cursor-pointer transition-colors flex items-center justify-center hover:bg-[#e6e900] group">
+    <div className="[font-family:'Alfa_Slab_One',Helvetica] font-normal text-[#e6e900] text-[30px] tracking-[0] leading-[normal] transition-colors group-hover:text-black">
+      MORE INFO.
+    </div>
+  </div>
+</a>
 
       {/* Card LAW AND SAUL: */}
       <div className="absolute top-[1131px] left-[750px] w-[521px] h-[148px] border-0 shadow-none">
