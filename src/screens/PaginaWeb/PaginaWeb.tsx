@@ -164,15 +164,7 @@ export const PaginaWeb = (): JSX.Element => {
                 solved.
               </article>
 
-              <div className="text-[18px] md:text-[24px] font-bold text-black">
-                If you like piña coladas
-                <br />
-                And gettin' caught in the rain
-                <br />
-                If you're not into yoga
-                <br />
-                If you have half a brain
-              </div>
+
             </div>
           </div>
         </div>
