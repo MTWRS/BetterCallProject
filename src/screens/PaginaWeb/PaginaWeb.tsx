@@ -18,7 +18,7 @@ export const PaginaWeb = (): JSX.Element => {
               />
               <div className="flex flex-col gap-2">
                 <span className="text-[20px] md:text-[24px] font-bold text-black -rotate-3">CALL NOW!</span>
-                <span className="text-[12px] md:text-[14px] text-black -rotate-2">
+                <span className="text-[12px] md:text-[14px] text-red -rotate-2">
                   (NOT TOLL FREE)
                 </span>
               </div>
