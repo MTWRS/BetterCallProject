@@ -14,7 +14,7 @@ export const PaginaWeb = (): JSX.Element => {
               <img
                 className="w-full max-w-[400px] h-auto"
                 alt="Atatsta"
-                src="/atatsta-1.png"
+                src="./atatsta-1.png"
               />
               <div className="flex flex-col gap-2">
                 <span className="text-[20px] md:text-[24px] font-bold text-black -rotate-3">CALL NOW!</span>
@@ -69,7 +69,7 @@ export const PaginaWeb = (): JSX.Element => {
               <img
                 className="w-full h-auto"
                 alt="Better call saul"
-                src="/better-call-saul--1.png"
+                src="./better-call-saul--1.png"
               />
 
               <div className="text-[18px] md:text-[24px] font-bold text-black">
@@ -135,7 +135,7 @@ export const PaginaWeb = (): JSX.Element => {
               <img
                 className="w-full h-auto"
                 alt="Babababab"
-                src="/babababab-1.png"
+                src="./babababab-1.png"
               />
             </div>
 
@@ -143,7 +143,7 @@ export const PaginaWeb = (): JSX.Element => {
               <img
                 className="w-full h-auto"
                 alt="Saull"
-                src="/saull-1.png"
+                src="./saull-1.png"
               />
 
               <article className="text-[14px] md:text-[16px] text-black leading-relaxed text-justify">
