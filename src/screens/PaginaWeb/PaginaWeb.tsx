@@ -12,13 +12,13 @@ export const PaginaWeb = (): JSX.Element => {
                 IN LEGAL TROUBLE?
               </div>
               <img
-                className="w-full max-w-[400px] h-auto rounded-lg"
-                alt="Legal consultation"
-                src="https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600"
+                className="w-full max-w-[400px] h-auto"
+                alt="Atatsta"
+                src="/atatsta-1.png"
               />
               <div className="flex flex-col gap-2">
                 <span className="text-[20px] md:text-[24px] font-bold text-black -rotate-3">CALL NOW!</span>
-                <span className="text-[12px] md:text-[14px] text-[#CD1C18] -rotate-2">
+                <span className="text-[12px] md:text-[14px] text-white -rotate-2">
                   (NOT TOLL FREE)
                 </span>
               </div>
@@ -67,9 +67,9 @@ export const PaginaWeb = (): JSX.Element => {
               </div>
 
               <img
-                className="w-full h-auto rounded-lg"
-                alt="Lawyer portrait"
-                src="https://images.pexels.com/photos/5632399/pexels-photo-5632399.jpeg?auto=compress&cs=tinysrgb&w=600"
+                className="w-full h-auto"
+                alt="Better call saul"
+                src="/better-call-saul--1.png"
               />
 
               <div className="text-[18px] md:text-[24px] font-bold text-black">
@@ -133,17 +133,17 @@ export const PaginaWeb = (): JSX.Element => {
               </div>
 
               <img
-                className="w-full h-auto rounded-lg"
-                alt="Law office"
-                src="https://images.pexels.com/photos/3757144/pexels-photo-3757144.jpeg?auto=compress&cs=tinysrgb&w=600"
+                className="w-full h-auto"
+                alt="Babababab"
+                src="/babababab-1.png"
               />
             </div>
 
             <div className="w-full md:w-[55%] flex flex-col gap-4">
               <img
-                className="w-full h-auto rounded-lg"
-                alt="Professional attorney"
-                src="https://images.pexels.com/photos/5708067/pexels-photo-5708067.jpeg?auto=compress&cs=tinysrgb&w=600"
+                className="w-full h-auto"
+                alt="Saull"
+                src="/saull-1.png"
               />
 
               <article className="text-[14px] md:text-[16px] text-black leading-relaxed text-justify">
@@ -164,7 +164,15 @@ export const PaginaWeb = (): JSX.Element => {
                 solved.
               </article>
 
-
+              <div className="text-[18px] md:text-[24px] font-bold text-black">
+                If you like piña coladas
+                <br />
+                And gettin' caught in the rain
+                <br />
+                If you're not into yoga
+                <br />
+                If you have half a brain
+              </div>
             </div>
           </div>
         </div>
